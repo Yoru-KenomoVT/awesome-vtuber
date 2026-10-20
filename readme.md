@@ -126,6 +126,8 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [DOG](https://paulvonlecter.github.io/DOG/) - Discord overlay generator for OBS, Xsplit and etc. broadcast programs. Feel free to participate in development of this tool and suggest some improvements or new CSS-hacks!
   - [Source Code](https://github.com/paulvonlecter/DOG)
 - [Hoshinova](https://github.com/HoloArchivists/hoshinova) - Schedule downloads of Youtube live streams
+- [Ayatsuri2D](https://ayatsuri-2d.org/) - Free, open-source rigging editor for Live2D-style VTuber models; opens PSD, Krita, Clip Studio and Cubism Editor projects and exports moc3 for VTube Studio. Windows, macOS and Linux.
+  - [Source Code](https://github.com/Yoru-KenomoVT/ayatsuri_2d)
 
 ## Dev Tools
 
